@@ -7,19 +7,21 @@ This is a responsive and mobile-friendly personal portfolio built using modern w
 📎 jeshu345.github.io/My_Portfolio
 
 🚀 Features
-Fully responsive across desktop, tablet, and mobile devices
 
-Projects section with descriptions and GitHub/demo links
+-Fully responsive across desktop, tablet, and mobile devices
 
-Skills display using icons and categories
+-Projects section with descriptions and GitHub/demo links
 
-Contact form or social links for easy reach
+-Skills display using icons and categories
+
+-Contact form or social links for easy reach
 
 🛠️ Tech Stack
-HTML5
 
-CSS3 / SCSS
+-HTML5
 
-JavaScript / React (if applicable)
+-CSS3 / SCSS
+
+-JavaScript / React (if applicable)
 
 GitHub Pages for free hosting
